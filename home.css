@@ -1,0 +1,480 @@
+body{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 600px;
+}
+.header{
+    background-color: #d61120;
+    margin-top: -50px; 
+    margin-right: 1px; 
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 1500px;
+}
+.header1{
+    position: relative;
+    font-size: 10px;
+    font-family: Inter;
+    color: rgb(255, 255, 255);
+    top: -1px;
+    left: 130px;
+}
+.header2{
+    position: relative;
+    font-size: 10px;
+    font-family: Inter;
+    color: rgb(255, 255, 255);
+    top: 30px;
+    left: 1260px;
+}
+.social > img{
+    position: relative;
+    width: 20px;
+    top: -43px;
+    left: 1360px;
+    margin-right: 5px;
+}
+.banner-msg{
+    font-family: Inter;
+    font-size: 20px;
+    color: #d4111a;
+}
+.banner-msg{
+    
+    margin-top: -50px; 
+    margin-right: 1px; 
+    padding-left: 130px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.nav{
+    position: relative;
+    left:400px;
+    bottom: 75px;
+}
+.nav > a{
+    display: inline;
+    font-family: Inter;
+    padding-left: 40px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: 700;
+}
+.cart > img{
+    margin-right: 25px;
+}
+.cart{
+    position: relative;
+    bottom: 110px;
+    left: 1260px;
+}
+.tao{
+    position: relative;
+    bottom: 80px;
+}
+.mount > img{
+    width: 1600px;
+}
+.tittle{
+    position: relative;
+    font-family: Inter;
+    font-size: 100px;
+    width: 700px;
+    bottom: 950px;
+    left: 100px;
+    color: white;
+}
+.sub{
+    position: relative;
+    font-size: 40px;
+    width: 700px;
+    color: rgb(209, 206, 206);
+    bottom: 95px;
+}
+.peso{
+    position: relative;
+    color: #d61120;
+    font-size: 80px;
+    bottom: 170px;
+}
+.month{
+    position: relative;
+    color: white;
+    font-size: 30px;
+    bottom: 300px;
+    left: 240px;
+}
+.get{
+    position: relative;
+    color: white;
+    font-size: 28px;
+    bottom: 300px;
+    width: 210px;
+    background-color: #d4111a;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.tittle2{
+    position: relative;
+    font-family: Inter;
+    font-size: 25px;
+    width: 700px;
+    bottom: 950px;
+    left: 680px;
+    color: #d4111a;
+    text-decoration: underline;
+}
+.enjoy{
+    position: relative;
+    font-family: Inter;
+    font-size: 30px;
+    text-align: center;
+    right: 35px;
+    width: 300px;
+    bottom: 980px;
+    left: 648px;
+    color: #000000;
+}
+.box{
+    position: relative;
+    bottom: 980px;
+    left: 80px;
+    margin-right: 200px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 80px;
+    padding-right: 50px;
+    padding-bottom: 313px;
+    width: 220px;
+    box-shadow: 1px 3px 6px 2px grey;
+    border-radius: 5px;
+}
+.rar{
+    position: relative;
+    top: 50px;
+    left: -45px;
+    bottom: 500px;
+}
+.box1{
+    position: relative;
+    bottom: 1378px;
+    left: 445px;
+    margin-right: 200px;
+    background-color: #d61120;
+    padding-left: 120px;
+    padding-right: 10px;
+    padding-bottom: 400px;
+    width: 220px;
+    box-shadow: 1px 3px 6px 2px grey;
+    border-radius: 5px;
+}
+.rar1{
+    position: relative;
+    left: 475px;
+    bottom: 1720px;
+}
+.box2{
+    position: relative;
+    bottom: 1842px;
+    left: 810px;
+    margin-right: 200px;
+    background-color: #ffffff;
+    padding-left: 120px;
+    padding-right: 10px;
+    padding-bottom: 400px;
+    width: 220px;
+    box-shadow: 1px 3px 6px 2px grey;
+    border-radius: 5px;
+}
+.rar2{
+    position: relative;
+    left: 840px;
+    bottom: 2190px;
+}
+.box3{
+    position: relative;
+    bottom: 2325px;
+    left: 1175px;
+    margin-right: 200px;
+    background-color: #ffffff;
+    padding-left: 120px;
+    padding-bottom: 400px;
+    width: 220px;
+    box-shadow: 1px 3px 6px 2px grey;
+    border-radius: 5px;
+}
+.rar3{
+    position: relative;
+    left: 1210px;
+    bottom: 2680px;
+}
+.nam{
+    position: relative;
+    left:115px;
+    bottom: 2650px;
+    font-family: Inter;
+    font-size: 18px;
+}  
+.wifi{
+    position: relative;
+    bottom: 2690px;
+    left: 480px;
+    color: #ffffff;
+    font-family: Inter;
+}
+.sate{
+    position: relative;
+    left:841px;
+    bottom: 2729px;
+    font-family: Inter;
+    font-size: 18px;
+}
+.bo{
+    position: relative;
+    left:1212px;
+    bottom: 2768px;
+    font-family: Inter;
+    font-size: 18px;
+}
+.tag4{
+    position: relative;
+    font-size: 23px;
+    width: 260px;
+    bottom: 2770px;
+    left: 115px;
+    font-family: Inter;
+}
+.tag1{
+    position: relative;
+    font-size: 23px;
+    width: 260px;
+    bottom: 2847px;
+    left: 479px;
+    font-family: Inter;
+    color: white;
+}
+.tag2{
+    position: relative;
+    font-size: 23px;
+    width: 260px;
+    bottom: 2929px;
+    left: 841px;
+    font-family: Inter;
+}
+.tag3{
+    position: relative;
+    font-size: 23px;
+    width: 260px;
+    bottom: 3007px;
+    left: 1213px;
+    font-family: Inter;
+}
+.fun{
+    position: relative;
+    bottom: 2800px;
+}
+.abo{
+    position: relative;
+    bottom: 3610px;
+    left: 800px;
+    font-family: Inter;
+    font-size: 20px;
+    text-decoration: underline;
+    color: #d4111a;
+}
+.we{
+    position: relative;
+    bottom: 3640px;
+    left: 800px;
+    font-family: Inter;
+    font-size: 50px;
+    width: 750px;
+}
+.val{
+    position: relative;
+    bottom: 3620px;
+    left: 800px;
+    font-family: Inter;
+    font-size: 25px;
+    width: 750px;
+    color: gray;
+}
+.pic > img{
+    position: relative;
+    bottom: 3630px;
+    left: 800px;
+    margin-right: 300px;
+}
+.ful > p{
+    position: relative;
+    bottom: 3620px;
+    left: 800px;
+    margin-right: 205px;
+    display: inline;
+    font-family: Inter;
+}
+.tex{
+    position: relative;
+    bottom: 3620px;
+    left: 800px;
+    font-family: Inter;
+    width: 300px;
+}
+.tex1{
+    position: relative;
+    bottom: 3699px;
+    left: 1160px;
+    font-family: Inter;
+    width: 300px;
+}
+.one1{
+    position: relative;
+    bottom: 3650px;
+    left: 800px;
+    font-family: Inter;
+    font-size: 21px;
+}
+.two2{
+    position: relative;
+    bottom: 3660px;
+    left: 800px;
+    font-family: Inter;
+    font-size: 21px;
+}
+.three3{
+    position: relative;
+    bottom: 3671px;
+    left: 800px;
+    font-family: Inter;
+    font-size: 21px;
+}
+.o{
+    position: relative;
+    bottom: 3621px;
+    left: 940px;
+}
+.t{
+    position: relative;
+    bottom: 3705px;
+    left: 880px;
+}
+.th{
+    position: relative;
+    bottom: 3787px;
+    left: 848px;
+}
+.f{
+    position: relative;
+    bottom: 3860px;
+    left: 800px;
+}
+.star{
+    position: relative;
+    bottom: 3930px;
+    left: 1020px;
+    font-size: 23px;
+    font-family: Inter;
+    text-decoration: underline;
+}
+.bac > img{
+    position: relative;
+    bottom: 3660px;
+    width: 1580px;
+}
+.gir {
+    position: relative;
+    bottom: 4525px;
+    left: 700px;
+}
+.cho{
+    position: relative;
+    bottom: 5420px;
+    left: 100px;
+    font-family: Inter;
+    font-size: 20px;
+    text-decoration: underline;
+    color: #d4111a;
+}
+.ul{
+    position: relative;
+    bottom: 5440px;
+    left: 95px;
+    font-family: Inter;
+    font-size: 50px;
+    width: 850px;
+}
+.mph > img{
+    position: relative;
+    bottom: 5460px;
+    left: 100px;
+}
+.eig > img{
+    position: relative;
+    bottom: 5400px;
+    left: 100px;
+}
+.one{
+    position: relative;
+    bottom: 5360px;
+    left: 100px;
+    font-family: Inter;
+    font-size: 27px;
+
+}
+.two{
+    position: relative;
+    bottom: 5370px;
+    left: 100px;
+    font-family: Inter;
+    font-size: 27px;
+}
+.three{
+    position: relative;
+    bottom: 5381px;
+    left: 100px;
+    font-family: Inter;
+    font-size: 27px;
+}
+.bal{
+    position: relative;
+    bottom: 5370px;
+    left: 100px;
+    font-family: Inter;
+    font-size: 40px;
+}
+.header4{
+    position: relative;
+    background-color: #d61120;
+    bottom: 5360px;
+    margin-right: 1px; 
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 1500px;
+}
+.header5{
+    position: relative;
+    bottom: 5445px;
+    font-size: 10px;
+    font-family: Inter;
+    color: rgb(255, 255, 255);
+    left: 130px;
+}
+.header6{
+    position: relative;
+    font-size: 10px;
+    bottom: 5410px;
+    font-family: Inter;
+    color: rgb(255, 255, 255);
+    left: 1260px;
+}
+.social1 > img{
+    position: relative;
+    bottom: 5474px;
+    width: 20px;
+    left: 1360px;
+    margin-right: 5px;
+}
